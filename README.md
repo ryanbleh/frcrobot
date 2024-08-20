@@ -19,3 +19,8 @@ Due to the funky geometry of the intake, this indexer has to do some weird stuff
 ![shooter image](https://github.com/user-attachments/assets/5ffe6ded-ed53-4eaf-9694-7c4d987f2f26)
 
 This shooter is loosely inspired by FRC 1540's shooter from this year. This is the least complete mechanism, and I plan to signifigantly overhaul the design at a later date. 
+
+## Drivetrain 
+![drivetrain image](https://github.com/user-attachments/assets/02168da8-c130-48b8-83fb-7025f1ddbfe5)
+
+This is a 29" x 29" drivetrain powered by 8 falcons on a SDS m4ki swerve base.   
