@@ -2,6 +2,7 @@
 This was my first ever design project which I've invested 50+ hours into. While this design is not the most strategicly optimized, I am very proud of the skills learnt. 
 
 [Interactive Onshape Link](https://cad.onshape.com/documents/d69f205208085775f34f9975/w/4b04278cab133aa93c007a42/e/86c95bab431cafa26690e7d9)
+
 ![robot gif](https://github.com/user-attachments/assets/81b529be-2e6f-4895-ac1a-9041c231ed46)
 
 ## Intake 
